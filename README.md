@@ -5,7 +5,6 @@ JATE is an online text editor for coders. It allows the user to install the appl
 
 Link: https://winter-jate-text-editor.herokuapp.com/
 
-The application was deployed with Heroku, uses Express for the backend, and webpack for the frontend. 
-
+## Screenshot
 
 ![](./preview.png)
